@@ -1,6 +1,6 @@
 class Dog
 
-  def instance_variable_set(name)
+  def instance_variable_set=(name)
     @this_dogs_name = name
   end
 
