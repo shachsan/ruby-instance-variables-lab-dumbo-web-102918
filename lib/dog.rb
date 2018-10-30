@@ -7,4 +7,4 @@ class Dog
   def instance_variable_get
     @this_dogs_name
   end
-end 
+end
